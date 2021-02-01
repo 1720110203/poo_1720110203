@@ -5,7 +5,7 @@ class Avion():
   num_pasajeros = None
   azafatas = None
   peso = None
-  nombre_compañía = None
+  nombre_compania = None
   color = None
   tamaño = None
   capacidad = None
@@ -33,7 +33,7 @@ aereo.alerones = "Alta velocidad"
 aereo.azafatas = 3
 aereo.capacidad = 156
 aereo.color = "Blanco con Azul"
-aereo.nombre_compañía = "Interjet"
+aereo.nombre_compania = "Interjet"
 aereo.num_pasajeros = 99
 aereo.num_serie = "Airbus 319"
 aereo.peso = "7200 kg"
@@ -45,7 +45,7 @@ print(aereo.alerones)
 print(aereo.azafatas)
 print(aereo.capacidad)
 print(aereo.color)
-print(aereo.nombre_compañía)
+print(aereo.nombre_compania)
 print(aereo.num_pasajeros)
 print(aereo.num_serie)
 print(aereo.peso)

@@ -7,7 +7,7 @@ class Vacaciones():
   turistas = None
   compras = None
   recorrido_turistico = None
-  estación_año = None
+  estacion_anio = None
   lugar_donde_queda = None
   dias_estadia = None
 
@@ -30,7 +30,7 @@ verano = Vacaciones()
 verano.comida = "Bufed"
 verano.compras = "Ropa para playa"
 verano.dias_estadia = 5
-verano.estación_año = "Verano"
+verano.estacion_anio = "Verano"
 verano.hora_llegada = "7:00am"
 verano.lugar_donde_queda = "Hotel"
 verano.lugar_viajar = "Playa del carmen"
@@ -41,7 +41,7 @@ verano.turistas = 12
 print(verano.comida)
 print(verano.compras)
 print(verano.dias_estadia)
-print(verano.estación_año)
+print(verano.estacion_año)
 print(verano.hora_llegada)
 print(verano.lugar_donde_queda)
 print(verano.lugar_viajar)

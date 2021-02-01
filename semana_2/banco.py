@@ -10,7 +10,7 @@ class Banco():
   prestamos = None
   num_cuenta_cliente = None
   vencimiento_tarjeta = None
-  ubicación = None
+  ubicacion = None
    
   #Creamos el constructor
   def __init__(self):
@@ -38,7 +38,7 @@ bbva.num_cuenta_cliente = "1475 5487 5556 5555"
 bbva.prestamos = "No hay prestamos"
 bbva.rfc_cliente = "OE00864A"
 bbva.salas_espera = "Llena"
-bbva.ubicación = "Tulancingo"
+bbva.ubicacion = "Tulancingo"
 bbva.vencimiento_tarjeta = "07/24"
 bbva.accesibilidad = "Rapida"
 
@@ -51,7 +51,7 @@ print(bbva.num_cuenta_cliente)
 print(bbva.prestamos)
 print(bbva.rfc_cliente)
 print(bbva.salas_espera)
-print(bbva.ubicación)
+print(bbva.ubicacion)
 print(bbva.vencimiento_tarjeta)
 
 #mandamos a llamar a los metodos

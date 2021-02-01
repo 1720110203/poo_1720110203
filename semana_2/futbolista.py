@@ -5,7 +5,7 @@ class Futbolista():
   equipo = None
   color_uniforme = None
   tacos = None 
-  posición = None 
+  posicion = None 
   estatura = None
   peso = None 
   seguro = None 
@@ -35,7 +35,7 @@ futbol.estatura = "1.87"
 futbol.nombre = "Cristiano Ronaldo"
 futbol.num_jugador = 7
 futbol.peso = 84
-futbol.posición = "Delantero"
+futbol.posicion = "Delantero"
 futbol.seguro = 168165165
 futbol.tacos = "Nike Mercuria"
 
@@ -46,7 +46,7 @@ print(futbol.estatura)
 print(futbol.nombre)
 print(futbol.num_jugador)
 print(futbol.peso)
-print(futbol.posición)
+print(futbol.posicion)
 print(futbol.seguro)
 print(futbol.tacos)
 
