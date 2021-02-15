@@ -41,7 +41,7 @@ verano.turistas = 12
 print(verano.comida)
 print(verano.compras)
 print(verano.dias_estadia)
-print(verano.estacion_año)
+print(verano.estacion_anio)
 print(verano.hora_llegada)
 print(verano.lugar_donde_queda)
 print(verano.lugar_viajar)
