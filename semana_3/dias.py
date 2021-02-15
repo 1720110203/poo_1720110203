@@ -10,7 +10,7 @@ class Dias:
     pass 
 
   def bucleDia (self):
-    calculo = 0
+    calculo = 0 # variable 
     calculo = int(input("Numeros de calculo a realizar: "))
     for rdia in range (calculo):
         print ("Dia: ")
